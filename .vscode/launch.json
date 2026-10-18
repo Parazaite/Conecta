@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Conecta Bairro (Vite)",
+            "url": "http://localhost:5174/",
+            "webRoot": "${workspaceFolder}/client",
+            "preLaunchTask": "Conecta Bairro: iniciar interface",
+            "presentation": {
+                "group": "Conecta Bairro",
+                "order": 1
+            }
+        }
+    ]
+}
